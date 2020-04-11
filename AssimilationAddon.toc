@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: AssimilationAddon
+## Author: Radonic, Org dev FreeHongKongMMO
+## Notes: 
+## Version: 1.1
+## RequiredDeps:
+## OptionalDeps: Ace3, LibDataBroker-1.1, LibCompress
+## SavedVariables:
+
+embeds.xml
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Migrate.lua
+
+#libs\HereBeDragons-1.0\HereBeDragons-1.0.lua
+
+AssimilationAddon.lua
+
